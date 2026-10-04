@@ -1,0 +1,11 @@
+node_modules
+dist
+*.local
+.DS_Store
+.vite
+.claude/
+
+# Private source documents — never publish these
+references/
+DE4373AA-*.jpeg
+profile.jpeg
