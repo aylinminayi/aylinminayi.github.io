@@ -1,6 +1,6 @@
 # Aylin Minayi — Developer Portfolio
 
-A one-page "pink developer scrapbook" portfolio built with **React + Vite**.
+ portfolio built with **React + Vite**.
 
 ## Run it locally
 
